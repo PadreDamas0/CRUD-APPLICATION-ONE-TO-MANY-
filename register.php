@@ -1,5 +1,5 @@
 <?php
-// DIRECT DB CONNECTION (replaces config.php)
+
 $host = 'localhost';
 $db_name = 'crud_one_to_many';
 $username = 'root';
